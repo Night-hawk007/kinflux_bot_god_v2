@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['14242345899', 'kinflux bot', true],
-  ['254110377776', 'zamzack254', true], 
+  ['2349093924119', 'kinflux bot', true],
+  ['2347041554460', 'zamzack254', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['254110077535','254110377776','254765777423'] 
-global.prems = ['254110077535', '254110377776', '2250545752448']
+global.mods = ['2349093924119','2347041554460'] 
+global.prems = ['2349093924119','2347041554460']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux boₜ 🐉'
+global.botname = 'Razhfad'sₜ 🐉'
 global.premium = 'true'
-global.packname = 'toxic┃ᴮᴼᵀ' 
-global.author = 'zamzack254' 
-global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD\n' 
-global.dygp = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
-global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
+global.packname = 'Pig-Benis┃ᴮᴼᵀ' 
+global.author = '2349093924119' 
+global.igfg = '▢ Follow on Instagram\nhttps://twitter.com/a_sad_nerd\n' 
+global.dygp = 'https://twitter.com/a_sad_nerd'
+global.fgsc = 'https://github.com/Razhfad' 
+global.fgyt = 'https://twitter.com/a_sad_nerd'
 global.fgpyp = ''
-global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
+global.fglog = 'https://imgur.com/a/4myCMKG.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _razhfad bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
